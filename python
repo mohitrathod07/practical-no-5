@@ -1,0 +1,5 @@
+no=int(input("enter a number"))
+if(no%2==0):
+print("The number",no,"is a even number")
+else:
+print("The number",no,"is a odd number")
